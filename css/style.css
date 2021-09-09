@@ -253,6 +253,7 @@ nav li{
     .strength{
 
         width: 75% !important;
+        max-width: 1000px;
 
     }
     .card{
